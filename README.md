@@ -1,5 +1,5 @@
 # Ex. No.3  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 07.12.25
+### DATE: 25.12.25
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -64,8 +64,8 @@
 
 
 
-### Name: ABHISHEK S
-### Register Number: 25008757
+### Name: IYYAPPAN S
+### Register Number: 25014014
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
